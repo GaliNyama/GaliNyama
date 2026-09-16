@@ -1,6 +1,6 @@
-# Hi, I'm Galaletsang Nyama 👋🏽
+# Hi, I'm Galaletsang Nyama 👋
 
-### 🧬 Bioinformatics | 📊 Data Analysis | 🐍 Python | 💻 Computational Biology
+###  Bioinformatics |  Data Analysis |  Python |  Computational Biology
 
 I'm a bioinformatics researcher with a background in microbiology and computational biology. I am passionate about using computational and data-driven approaches to understand biological systems, investigate disease, and support drug discovery.
 
@@ -8,7 +8,7 @@ My interests sit at the intersection of **bioinformatics, data science, structur
 
 ---
 
-## 🔬 About Me
+## About Me
 
 - 🧬 Interested in **Bioinformatics & Computational Biology**
 - 💊 Working with **computational drug discovery and protein-ligand interactions**
