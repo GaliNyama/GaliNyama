@@ -1,4 +1,4 @@
-# Hi, I'm Galaletsang Nyama 👋
+# Hi, I'm Galaletsang Nyama 
 
 ###  Bioinformatics |  Data Analysis |  Python |  Computational Biology
 
@@ -10,18 +10,18 @@ My interests sit at the intersection of **bioinformatics, data science, structur
 
 ## About Me
 
-- 🧬 Interested in **Bioinformatics & Computational Biology**
-- 💊 Working with **computational drug discovery and protein-ligand interactions**
-- 📊 Expanding my skills in **Data Analytics & Data Science**
-- 🐍 Working with **Python**
-- 🤖 Interested in **Machine Learning**
-- 🗄️ Currently learning **SQL**
-- 📈 Currently learning **Power BI**
-- 🌍 Interested in using computational approaches to address health challenges
+-  Interested in **Bioinformatics & Computational Biology**
+-  Working with **computational drug discovery and protein-ligand interactions**
+-  Expanding my skills in **Data Analytics & Data Science**
+-  Working with **Python**
+-  Interested in **Machine Learning**
+-  Currently learning **SQL**
+-  Currently learning **Power BI**
+-  Interested in using computational approaches to address health challenges
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming & Data
 - Python
@@ -47,21 +47,21 @@ My interests sit at the intersection of **bioinformatics, data science, structur
 
 ---
 
-## 📂 Portfolio Projects
+##  Portfolio Projects
 
 I am currently developing projects in:
 
-- 🧬 **Computational Drug Discovery**
-- 🇿🇦 **Public Health & HIV Data Analytics**
-- 📊 **Business Data Analytics**
-- 🐍 **Python for Bioinformatics**
-- 🤖 **Machine Learning for Biological Data**
+-  **Computational Drug Discovery**
+-  **Public Health & HIV Data Analytics**
+-  **Business Data Analytics**
+-  **Python for Bioinformatics**
+-  **Machine Learning for Biological Data**
 
 More projects coming soon.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 My current goal is to strengthen my skills at the intersection of:
 
@@ -71,7 +71,7 @@ while building reproducible computational projects that demonstrate real-world d
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm interested in opportunities in:
 
